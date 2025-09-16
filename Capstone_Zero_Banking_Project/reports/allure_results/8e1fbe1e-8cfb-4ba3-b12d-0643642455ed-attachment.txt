@@ -1,0 +1,5 @@
+Launch browser successfully!
+Load browser successfully
+The user is successfully logged in.
+Insufficient Money in the account
+All test cases passed!

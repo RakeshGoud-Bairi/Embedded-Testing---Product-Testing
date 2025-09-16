@@ -1,0 +1,8 @@
+Launch browser successfully!
+Load browser successfully
+The user is successfully logged in.
+Cash Accounts visible successfully
+Investment Accounts visible successfully
+Credit Accounts visible successfully
+Loan Accounts visible successfully
+All test cases passed!

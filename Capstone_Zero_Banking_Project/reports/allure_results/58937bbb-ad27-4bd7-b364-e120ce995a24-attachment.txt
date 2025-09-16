@@ -1,0 +1,11 @@
+Launch browser successfully!
+Load browser successfully
+The user is successfully logged in.
+You successfully submitted your transaction. visible successfully
+From Account
+Checking
+To Account
+Loan
+Amount
+$ 1000 visible successfully
+All test cases passed!

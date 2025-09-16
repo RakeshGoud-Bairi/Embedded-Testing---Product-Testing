@@ -1,0 +1,6 @@
+Launch browser successfully!
+Load browser successfully
+The user is successfully logged in.
+logged out successfully
+session expried successfully
+All test cases passed!

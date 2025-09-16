@@ -1,0 +1,5 @@
+Launch browser successfully!
+Load browser successfully
+The user is successfully logged in.
+screenshot saved beacuse, Amount field cannot be empty.
+All test cases passed!
